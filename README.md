@@ -8,6 +8,7 @@ CoronaSafe Network is a free and open-source disaster management system that is 
 
 - [Bodhi](./bodhish)
 - [Vignesh Hari](./vigneshhari)
+- [Gigin](./gigin)
 
 # Add Your Bio
 
