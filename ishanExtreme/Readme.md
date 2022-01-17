@@ -1,6 +1,6 @@
 **Introduction**
 
-Hi I am Ishan Mishra, a B.Tech student a IIIT Kalyani. I have tried many techstacks and languages like, Android(JAVA),Django(Python), DeepLearning(Python), ObjectDetection(Python), NodeJs(javaScript), React and ReactNative.
+Hi I am Ishan Mishra, a B.Tech student at IIIT Kalyani. I have tried many techstacks and languages like, Android(JAVA),Django(Python), DeepLearning(Python), ObjectDetection(Python), NodeJs(javaScript), React and ReactNative.
 
 **Projects**
 
