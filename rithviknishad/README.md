@@ -44,9 +44,11 @@ While commiting this file, I am pursuing my
 ### Highlight Projects
 
 - **Vaidyuti**
+  
   Decentralized and Autonomous Energy Grid System for a scalable and an efficient power grid system for the future demands using DC microgrid clusters. Peer to peer trading of energy at the center of gravity for minimizing transmission losses and improved uptime and grid power capacity.
   
 - **[OsumPi](https://github.com/osumpi/osumpi)**
+  
   A `Service Oriented Architecture` based IoT Automation and Ecosystem management framework.
 
 #### Technologies used
