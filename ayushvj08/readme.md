@@ -4,6 +4,9 @@ _*Hey there!*_ 🙌
 
 I am **Ayush Vijayant** , currently a third-year Ungergraduate in Civil Engineering from BIT Sindri , Dhanbad.
 
-I am a keen software developer and contributor.
+I am a keen software developer, contributor and a great lover of open-source programming.
 
-Also I like to cook in my free time when i'm not coding.
+My development tools include : RubyOnRails, NodeJS, React and some Django
+I also enjoy doing Competitive programming using C++ , and some Data Analytics using Python.
+
+I am a good chef too, I spend my free time cooking tasty food.
