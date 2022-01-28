@@ -2,7 +2,7 @@
 
 ### I'm Navaneeth
 
-I'm a first year computer science student from India trying to get in to the world of information security
+I'm a first year computer science student from India trying to get in to the world of information security.
 
 - :zap: I love math, programming, InfoSec
 - :hammer: I'm currently learning to be a **full stack developer**
