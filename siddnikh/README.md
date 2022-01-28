@@ -1,0 +1,2 @@
+# Siddharth Nikhil
+Hi, I'm Siddharth Nikhil. I'm an 18 y/o graphic designer and Full Stack Web Developer. I love picture manipulation, and getting my hands dirty with cool projects like game AIs, automated stuff and cool to display art :P I really like listening to music (not singing :clown-face:). I love sharing music and I spend my time either on Reddit, YouTube, or working out. :)
