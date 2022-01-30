@@ -1,0 +1,27 @@
+name: Update Students
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: master
+      - name: Create local changes
+        run: |
+          python3 aggregator.py
+      - name: Commit files
+        run: |
+          git config --local user.email "vichuhari100@gmail.com"
+          git config --local user.name "Vignesh Hari"
+          git add .
+          git diff --staged --quiet || git commit -am "Shuffled Students List"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
