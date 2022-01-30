@@ -16,8 +16,8 @@ jobs:
           python3 aggregator.py
       - name: Commit files
         run: |
-          git config --local user.email "vichuhari100@gmail.com"
-          git config --local user.name "Vignesh Hari"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add .
           git diff --staged --quiet || git commit -am "Shuffled Students List"
       - name: Push changes
