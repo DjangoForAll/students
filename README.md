@@ -1,13 +1,6 @@
-### Students 
+Naveen Shaji
 
-This repository contains the list of students along with their short introductions. If you have taken the Django Course, feel free to add yourself to the list.  
 
-[View](students) the current students.  
+Hi I am Naveen Shaji
 
-### Add Your Bio
-
-Introduce yourselves to others by creating small (or flamboyant) descriptions about you, your hobbies, intrests, blogs, projects or anything you want to showcase!
-
-### Usage
-
-Create a new folder with your username and create a `Readme.md` file under that.
+I am from Ernakulam, I Studied Diploma in Electronics Engineering and a course in Python Full Stack Web Development
