@@ -2,7 +2,7 @@
 
 I'm a final-year student with a passion for crafting solutions to real-world problems. I love to teach and learn new things, constantly exploring new technologies and improving my skills.
 ### My Tech Stack:
-- **Languages**: Python, JavaScript, TypeScript
+- **Languages**: Python, JavaScript, TypeScript, Go
 - **Frameworks**: React, Node.js,
 - **Other Tools**: Docker, MongoDB, PostgreSQL,git & Github
 - **Interests**: Backend Engineering, Machine Learning
