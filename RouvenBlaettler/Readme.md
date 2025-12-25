@@ -1,0 +1,2 @@
+#HELLOOOOO
+I just started studying CS. I've learned python and it was really fun but we never really did a project only small challenges similar to leetcode questions. I've just finished my exams and have almost two months vacation, so i want to create a small project using python, e.g. a web application or website. Doing this course will hopefully result in me being able to use django and do my own project. 
